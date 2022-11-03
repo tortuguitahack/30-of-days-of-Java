@@ -1,0 +1,31 @@
+import java.io.*;
+import java.util.*;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
+
+public class Solution {
+
+    public static void main(String[]args) 
+    int i = 4;
+    double d = 4.0;
+    String s = "HackerRank";
+
+    Scanner sacan = new Scanner(System.in);
+    
+    //declare second interger, double, a string variables.
+    int i2;
+    double d2;
+    String s2;
+
+    //Read and save an interger, double, and String to your variables.
+    i2 = scan.nextInt(i + i2);
+    d2 = scan.nextDouble();
+
+    //Print sum of the double variables on a new line.
+    System.out.println(i + i2);
+    //Print the sum of the double variables on a the new line.
+    System.out.println(d+d2);
+    System.out.println(s.concat(s2));
+    scan.close();
+}
